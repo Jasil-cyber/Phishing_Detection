@@ -1,0 +1,12 @@
+{
+  "publisher_source": "https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset",
+  "download_url": "https://raw.githubusercontent.com/Ninjax26/phishing-ml/main/PhiUSIIL_Phishing_URL_Dataset.csv.zip",
+  "file_commit": "a724836c8b165f73347ea087ae9946dad9e9e293",
+  "mirror_columns": 55,
+  "publisher_columns": 56,
+  "omitted_identifier": "FILENAME",
+  "acquisition_date_dubai": "2026-11-13",
+  "primary_records_compared": 110768,
+  "common_fields_match_for_compared_prefix": true,
+  "full_primary_file_comparison": false
+}

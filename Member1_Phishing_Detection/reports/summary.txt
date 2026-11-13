@@ -1,0 +1,18 @@
+Member 1 data audit
+Acquired 13 November 2026
+
+Input rows: 235,795
+Downloaded columns: 55
+Missing or invalid URL/label rows: 0
+Duplicate URL records excluded: 425
+URLs with conflicting labels: 0
+Cleaned rows: 235,370
+Training rows: 188,674
+Test rows: 46,696
+Shared URLs across train/test: 0
+Shared domain groups across train/test: 0
+
+0 = Phishing; 1 = Legitimate.
+Use URL as input and label as target. source_row and domain_group are not model predictors.
+The split is approximately 80/20 by domain hash, not exactly stratified by row.
+See audit.json and acquisition.json for full counts, hashes and provenance.
