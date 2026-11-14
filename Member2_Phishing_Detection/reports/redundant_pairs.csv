@@ -1,0 +1,10 @@
+feature_a,feature_b,spearman
+num_subdomains,subdomain_length,0.989
+host_digits,host_digit_ratio,0.998
+host_digits,host_longest_digit_run,0.998
+host_digit_ratio,host_longest_digit_run,0.998
+has_www,path_length,-0.902
+has_www,num_slashes_path,-0.903
+path_length,num_slashes_path,0.996
+query_length,num_query_params,1.0
+url_digits,url_digit_ratio,0.997

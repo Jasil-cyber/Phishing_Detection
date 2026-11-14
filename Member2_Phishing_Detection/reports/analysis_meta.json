@@ -1,0 +1,8 @@
+{
+  "train_rows": 188674,
+  "phishing_rows": 80725,
+  "n_features": 42,
+  "folds": 5,
+  "seed": 42,
+  "runtime_seconds": 254
+}

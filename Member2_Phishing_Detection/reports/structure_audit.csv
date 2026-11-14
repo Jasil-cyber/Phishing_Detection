@@ -1,0 +1,12 @@
+feature,phishing_with_property_%,legitimate_with_property_%
+uses https,48.45,100.0
+starts with www.,41.35,100.0
+has a path,60.71,0.0
+has a query string,5.6,0.0
+has a fragment,0.79,0.0
+has a port,0.03,0.0
+IP-address host,0.68,0.0
+has subdomain (after www),53.99,2.85
+free hosting service,23.5,0.0
+bare homepage (no path/query),72.41,100.0
+https + www + bare homepage,1.05,100.0
