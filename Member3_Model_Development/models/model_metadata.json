@@ -1,0 +1,52 @@
+{
+  "selected_model": "logistic_regression",
+  "selected_feature_set": "host",
+  "selected_best_params": {
+    "clf__C": 10
+  },
+  "feature_names": [
+    "hostname_length",
+    "num_dots_host",
+    "num_subdomains",
+    "subdomain_length",
+    "sld_length",
+    "tld_length",
+    "longest_label_length",
+    "is_ip_host",
+    "is_idn_punycode",
+    "has_at_symbol",
+    "has_port",
+    "host_hyphens",
+    "sld_hyphens",
+    "host_digits",
+    "host_digit_ratio",
+    "host_longest_digit_run",
+    "host_other_chars",
+    "host_entropy",
+    "sld_vowel_ratio",
+    "suspicious_tld",
+    "free_hosting_service",
+    "is_url_shortener",
+    "host_keyword_count",
+    "brand_in_sld_altered",
+    "brand_in_subdomain"
+  ],
+  "input": "raw URL string (the saved pipeline extracts features itself)",
+  "phishing_value": 0,
+  "label_meaning": {
+    "0": "phishing",
+    "1": "legitimate"
+  },
+  "selection_rule": "highest mean CV F1 (phishing = positive) among 'host' feature-set models",
+  "cv": "5-fold StratifiedGroupKFold, grouped by domain_group, shuffle, seed 42, training data only",
+  "random_seed": 42,
+  "n_training_rows": 188674,
+  "n_domain_groups": 140559,
+  "class_counts": {
+    "0": 80725,
+    "1": 107949
+  },
+  "python_version": "3.12.10",
+  "sklearn_version": "1.9.1",
+  "pandas_version": "3.1.1"
+}
