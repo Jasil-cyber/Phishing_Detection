@@ -1,0 +1,24 @@
+# 10 phishing + 10 legitimate URLs, random sample (seed 42) from Member 1's test.csv
+# Lines starting with # are ignored.
+# --- phishing (label 0) ---
+http://appleid.apple.com.sign-inx9p3fygrfpyvzdkn.top/
+http://coinbase.com.ticket-94.id/
+http://www.gulf-builders.com
+http://www.jud.pplink.club
+http://www.quatet365.com
+https://docs.google.com/presentation/d/e/2pacx-1vqfp9flw3ju8dfo80pbmzzwuvkrwbqno2yba4ywft8v7imzisicgsxaeirpllv-hsniscsdbuq22zue/pub?start=false&loop=false&delayms=3000
+https://341b22a4-0766-4eca-90dd-3d060f2d9c76.id.repl.co
+https://sfr-commande-annulation.com/verification/loading.php
+https://6f7d6032-1377-4c12-8c97-12b3a81f59ac.id.repl.co/
+https://alerta--marielarlhuehue.repl.co/
+# --- legitimate (label 1) ---
+https://www.physicianonfire.com
+https://www.kristoferbrozio.com
+https://www.mangyan.org
+https://www.cotacero.ws
+https://www.ragtag.jp
+https://www.watson.ch
+https://www.crucienigmi.it
+https://www.freshplanet.com
+https://www.ivelinvlaykov.com
+https://www.rwitc.com

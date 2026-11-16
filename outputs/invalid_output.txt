@@ -1,0 +1,4 @@
+----------------------------------------------------------------
+URL: not a url ::
+Could not analyse: Not a valid http:// or https:// URL (a scheme and a readable host name are required)
+[ Open link ]  BLOCKED - input could not be analysed.

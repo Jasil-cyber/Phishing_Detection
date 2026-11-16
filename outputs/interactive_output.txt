@@ -1,0 +1,11 @@
+Phishing URL checker - type a URL (or 'quit').
+
+URL> ----------------------------------------------------------------
+URL: http://coinbase.com.ticket-94.id/
+!! WARNING: PHISHING SUSPECTED (99.9% confidence) !!
+   - A well-known brand name appears in the subdomain of an unrelated site
+   - Does not use HTTPS
+[ Open link ]  BLOCKED - 'Open link' is disabled for this URL.
+   Do not enter passwords or personal details. Report to IT/security.
+
+URL> 

@@ -1,0 +1,113 @@
+----------------------------------------------------------------
+URL: http://appleid.apple.com.sign-inx9p3fygrfpyvzdkn.top/
+!! WARNING: PHISHING SUSPECTED (100.0% confidence) !!
+   - A well-known brand name appears in the subdomain of an unrelated site
+   - Host name contains 1 suspicious word(s) such as login, account or verify
+   - Domain ending is often abused by phishers
+   - Unusually long chain of subdomains
+   - Unusually long host name
+   - Does not use HTTPS
+[ Open link ]  BLOCKED - 'Open link' is disabled for this URL.
+   Do not enter passwords or personal details. Report to IT/security.
+----------------------------------------------------------------
+URL: http://coinbase.com.ticket-94.id/
+!! WARNING: PHISHING SUSPECTED (99.9% confidence) !!
+   - A well-known brand name appears in the subdomain of an unrelated site
+   - Does not use HTTPS
+[ Open link ]  BLOCKED - 'Open link' is disabled for this URL.
+   Do not enter passwords or personal details. Report to IT/security.
+----------------------------------------------------------------
+URL: http://www.gulf-builders.com
+OK: Looks legitimate (phishing probability 32.8%)
+[ Open link ]  Link opened (simulated).
+----------------------------------------------------------------
+URL: http://www.jud.pplink.club
+!! WARNING: PHISHING SUSPECTED (98.7% confidence) !!
+   - Domain ending is often abused by phishers
+   - Does not use HTTPS
+[ Open link ]  BLOCKED - 'Open link' is disabled for this URL.
+   Do not enter passwords or personal details. Report to IT/security.
+----------------------------------------------------------------
+URL: http://www.quatet365.com
+!! WARNING: PHISHING SUSPECTED (55.1% confidence) !!
+   - Does not use HTTPS
+[ Open link ]  BLOCKED - 'Open link' is disabled for this URL.
+   Do not enter passwords or personal details. Report to IT/security.
+----------------------------------------------------------------
+URL: https://docs.google.com/presentation/d/e/2pacx-1vqfp9flw3ju8dfo80pbmzzwuvkrwbqno2yba4ywft8v7imzisicgsxaeirpllv-hsniscsdbuq22zue/pub?start=false&loop=false&delayms=3000
+!! WARNING: PHISHING SUSPECTED (68.4% confidence) !!
+   - No single rule matched, but the model scored this host name as high risk
+[ Open link ]  BLOCKED - 'Open link' is disabled for this URL.
+   Do not enter passwords or personal details. Report to IT/security.
+----------------------------------------------------------------
+URL: https://341b22a4-0766-4eca-90dd-3d060f2d9c76.id.repl.co
+!! WARNING: PHISHING SUSPECTED (100.0% confidence) !!
+   - Hosted on a free website-builder or tunnelling service
+   - Many digits in the host name
+   - Many hyphens in the host name
+   - Unusually long host name
+[ Open link ]  BLOCKED - 'Open link' is disabled for this URL.
+   Do not enter passwords or personal details. Report to IT/security.
+----------------------------------------------------------------
+URL: https://sfr-commande-annulation.com/verification/loading.php
+OK: Looks legitimate (phishing probability 36.4%)
+[ Open link ]  Link opened (simulated).
+----------------------------------------------------------------
+URL: https://6f7d6032-1377-4c12-8c97-12b3a81f59ac.id.repl.co/
+!! WARNING: PHISHING SUSPECTED (100.0% confidence) !!
+   - Hosted on a free website-builder or tunnelling service
+   - Many digits in the host name
+   - Many hyphens in the host name
+   - Unusually long host name
+[ Open link ]  BLOCKED - 'Open link' is disabled for this URL.
+   Do not enter passwords or personal details. Report to IT/security.
+----------------------------------------------------------------
+URL: https://alerta--marielarlhuehue.repl.co/
+!! WARNING: PHISHING SUSPECTED (100.0% confidence) !!
+   - Host name contains 1 suspicious word(s) such as login, account or verify
+   - Hosted on a free website-builder or tunnelling service
+   - Unusually long host name
+[ Open link ]  BLOCKED - 'Open link' is disabled for this URL.
+   Do not enter passwords or personal details. Report to IT/security.
+----------------------------------------------------------------
+URL: https://www.physicianonfire.com
+OK: Looks legitimate (phishing probability 17.6%)
+[ Open link ]  Link opened (simulated).
+----------------------------------------------------------------
+URL: https://www.kristoferbrozio.com
+OK: Looks legitimate (phishing probability 18.3%)
+[ Open link ]  Link opened (simulated).
+----------------------------------------------------------------
+URL: https://www.mangyan.org
+OK: Looks legitimate (phishing probability 23.1%)
+[ Open link ]  Link opened (simulated).
+----------------------------------------------------------------
+URL: https://www.cotacero.ws
+OK: Looks legitimate (phishing probability 17.4%)
+[ Open link ]  Link opened (simulated).
+----------------------------------------------------------------
+URL: https://www.ragtag.jp
+OK: Looks legitimate (phishing probability 22.4%)
+[ Open link ]  Link opened (simulated).
+----------------------------------------------------------------
+URL: https://www.watson.ch
+OK: Looks legitimate (phishing probability 20.5%)
+[ Open link ]  Link opened (simulated).
+----------------------------------------------------------------
+URL: https://www.crucienigmi.it
+OK: Looks legitimate (phishing probability 17.6%)
+[ Open link ]  Link opened (simulated).
+----------------------------------------------------------------
+URL: https://www.freshplanet.com
+OK: Looks legitimate (phishing probability 21.1%)
+[ Open link ]  Link opened (simulated).
+----------------------------------------------------------------
+URL: https://www.ivelinvlaykov.com
+OK: Looks legitimate (phishing probability 19.2%)
+[ Open link ]  Link opened (simulated).
+----------------------------------------------------------------
+URL: https://www.rwitc.com
+OK: Looks legitimate (phishing probability 22.6%)
+[ Open link ]  Link opened (simulated).
+================================================================
+Scanned 20 URLs: 8 phishing, 12 legitimate, 0 invalid.

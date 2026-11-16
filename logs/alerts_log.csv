@@ -1,0 +1,31 @@
+timestamp,url,label,probability,link_opened
+2026-11-17T00:40:34,http://appleid.apple.com.sign-inx9p3fygrfpyvzdkn.top/,Phishing,1.000,False
+2026-11-17T00:40:34,http://coinbase.com.ticket-94.id/,Phishing,0.999,False
+2026-11-17T00:40:34,https://www.watson.ch,Legitimate,0.205,True
+2026-11-17T00:40:34,https://www.freshplanet.com,Legitimate,0.211,True
+2026-11-17T00:40:34,not a url ::,Invalid,0.000,False
+2026-11-17T00:40:34,www.google.com,Invalid,0.000,False
+2026-11-17T00:40:34,https://sfr-commande-annulation.com/verification/loading.php,Legitimate,0.364,True
+2026-11-17T00:40:34,https://accounts.google.com/signin,Phishing,0.929,False
+2026-11-17T00:40:36,http://appleid.apple.com.sign-inx9p3fygrfpyvzdkn.top/,Phishing,1.000,False
+2026-11-17T00:40:36,http://coinbase.com.ticket-94.id/,Phishing,0.999,False
+2026-11-17T00:40:36,http://www.gulf-builders.com,Legitimate,0.328,True
+2026-11-17T00:40:36,http://www.jud.pplink.club,Phishing,0.987,False
+2026-11-17T00:40:36,http://www.quatet365.com,Phishing,0.551,False
+2026-11-17T00:40:36,https://docs.google.com/presentation/d/e/2pacx-1vqfp9flw3ju8dfo80pbmzzwuvkrwbqno2yba4ywft8v7imzisicgsxaeirpllv-hsniscsdbuq22zue/pub?start=false&loop=false&delayms=3000,Phishing,0.684,False
+2026-11-17T00:40:36,https://341b22a4-0766-4eca-90dd-3d060f2d9c76.id.repl.co,Phishing,1.000,False
+2026-11-17T00:40:36,https://sfr-commande-annulation.com/verification/loading.php,Legitimate,0.364,True
+2026-11-17T00:40:36,https://6f7d6032-1377-4c12-8c97-12b3a81f59ac.id.repl.co/,Phishing,1.000,False
+2026-11-17T00:40:36,https://alerta--marielarlhuehue.repl.co/,Phishing,1.000,False
+2026-11-17T00:40:36,https://www.physicianonfire.com,Legitimate,0.176,True
+2026-11-17T00:40:36,https://www.kristoferbrozio.com,Legitimate,0.183,True
+2026-11-17T00:40:36,https://www.mangyan.org,Legitimate,0.231,True
+2026-11-17T00:40:36,https://www.cotacero.ws,Legitimate,0.174,True
+2026-11-17T00:40:36,https://www.ragtag.jp,Legitimate,0.224,True
+2026-11-17T00:40:36,https://www.watson.ch,Legitimate,0.205,True
+2026-11-17T00:40:36,https://www.crucienigmi.it,Legitimate,0.176,True
+2026-11-17T00:40:36,https://www.freshplanet.com,Legitimate,0.211,True
+2026-11-17T00:40:36,https://www.ivelinvlaykov.com,Legitimate,0.192,True
+2026-11-17T00:40:36,https://www.rwitc.com,Legitimate,0.226,True
+2026-11-17T00:40:37,not a url ::,Invalid,0.000,False
+2026-11-17T00:40:38,http://coinbase.com.ticket-94.id/,Phishing,0.999,False

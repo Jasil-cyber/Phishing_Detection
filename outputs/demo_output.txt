@@ -1,0 +1,55 @@
+=== DEMO PART 1: simulated email with 4 links ===
+"Dear customer, your account has been suspended. Click below to restore access."
+
+----------------------------------------------------------------
+URL: http://appleid.apple.com.sign-inx9p3fygrfpyvzdkn.top/
+!! WARNING: PHISHING SUSPECTED (100.0% confidence) !!
+   - A well-known brand name appears in the subdomain of an unrelated site
+   - Host name contains 1 suspicious word(s) such as login, account or verify
+   - Domain ending is often abused by phishers
+   - Unusually long chain of subdomains
+   - Unusually long host name
+   - Does not use HTTPS
+[ Open link ]  BLOCKED - 'Open link' is disabled for this URL.
+   Do not enter passwords or personal details. Report to IT/security.
+----------------------------------------------------------------
+URL: http://coinbase.com.ticket-94.id/
+!! WARNING: PHISHING SUSPECTED (99.9% confidence) !!
+   - A well-known brand name appears in the subdomain of an unrelated site
+   - Does not use HTTPS
+[ Open link ]  BLOCKED - 'Open link' is disabled for this URL.
+   Do not enter passwords or personal details. Report to IT/security.
+----------------------------------------------------------------
+URL: https://www.watson.ch
+OK: Looks legitimate (phishing probability 20.5%)
+[ Open link ]  Link opened (simulated).
+----------------------------------------------------------------
+URL: https://www.freshplanet.com
+OK: Looks legitimate (phishing probability 21.1%)
+[ Open link ]  Link opened (simulated).
+
+=== DEMO PART 2: invalid input ===
+----------------------------------------------------------------
+URL: not a url ::
+Could not analyse: Not a valid http:// or https:// URL (a scheme and a readable host name are required)
+[ Open link ]  BLOCKED - input could not be analysed.
+----------------------------------------------------------------
+URL: www.google.com
+Could not analyse: Not a valid http:// or https:// URL (a scheme and a readable host name are required)
+[ Open link ]  BLOCKED - input could not be analysed.
+
+=== DEMO PART 3: known limitations (shown on purpose) ===
+A phishing URL the model misses (false negative), and a real Google page it wrongly flags (false positive):
+
+----------------------------------------------------------------
+URL: https://sfr-commande-annulation.com/verification/loading.php
+OK: Looks legitimate (phishing probability 36.4%)
+[ Open link ]  Link opened (simulated).
+----------------------------------------------------------------
+URL: https://accounts.google.com/signin
+!! WARNING: PHISHING SUSPECTED (92.9% confidence) !!
+   - Host name contains 1 suspicious word(s) such as login, account or verify
+[ Open link ]  BLOCKED - 'Open link' is disabled for this URL.
+   Do not enter passwords or personal details. Report to IT/security.
+================================================================
+Demo finished. All decisions were written to logs/alerts_log.csv
