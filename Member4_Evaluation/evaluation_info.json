@@ -1,0 +1,15 @@
+{
+  "python": "3.12.14",
+  "scikit_learn": "1.9.1",
+  "pandas": "3.1.1",
+  "numpy": "2.3.5",
+  "joblib": "1.5.3",
+  "matplotlib": "3.10.8",
+  "positive_class": 0,
+  "training_rows": 188674,
+  "test_rows": 46696,
+  "cv_source": "Member3_Model_Development/results/cv_results.csv",
+  "cv_method": "5-fold StratifiedGroupKFold, grouped by domain_group, shuffle, seed 42, training data only",
+  "cv_training_rerun": false,
+  "selected_model_unchanged": "host_logistic_regression"
+}

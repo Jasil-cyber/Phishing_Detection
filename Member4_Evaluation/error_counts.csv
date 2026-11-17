@@ -1,0 +1,5 @@
+Model,TN,FP,FN,TP
+host_logistic_regression,25734,1167,6427,13368
+host_random_forest,26125,776,6908,12887
+all_logistic_regression,26895,6,89,19706
+all_random_forest,26897,4,84,19711

@@ -1,0 +1,5 @@
+Model,Phishing_URLs,Detected,Missed,Recall
+host_logistic_regression,118,56,62,0.4745762711864407
+host_random_forest,118,56,62,0.4745762711864407
+all_logistic_regression,118,29,89,0.2457627118644068
+all_random_forest,118,34,84,0.288135593220339

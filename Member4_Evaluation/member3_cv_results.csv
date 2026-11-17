@@ -1,0 +1,5 @@
+feature_set,model,best_params,cv_f1_phishing,cv_f1_std,cv_precision_phishing,cv_recall_phishing,cv_accuracy,Model
+host,logistic_regression,{'clf__C': 10},0.7795586920909868,0.011011687918672929,0.9215856883002006,0.6755899659337257,0.8366124791700139,host_logistic_regression
+host,random_forest,"{'clf__max_depth': 20, 'clf__min_samples_leaf': 5, 'clf__n_estimators': 200}",0.7766361596299606,0.029802040319338863,0.9439418158058581,0.6605636419944256,0.8380648650808207,host_random_forest
+all,logistic_regression,{'clf__C': 1},0.9976474317271575,0.00018606468297531468,0.9998009756658668,0.9955032517807372,0.997991243425471,all_logistic_regression
+all,random_forest,"{'clf__max_depth': 20, 'clf__min_samples_leaf': 2, 'clf__n_estimators': 200}",0.997740816543472,0.0001615057813909339,0.9997761185970185,0.9957138432951378,0.9980707459165613,all_random_forest
